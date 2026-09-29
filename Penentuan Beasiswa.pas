@@ -1,4 +1,4 @@
-program PenentuanBeasiswa;
+program Beasiswa;
 uses crt;
 
 var
